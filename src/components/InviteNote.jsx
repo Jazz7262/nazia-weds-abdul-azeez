@@ -13,7 +13,7 @@ function InviteNote() {
                     Near Jawar Street,
                     <br /> Cowl Bazaar, Bellari.
                 </h5>
-                <p className="address">Contact: +91 93988 56902.</p>
+                <p className="address">Contact: +91 90367 18582.</p>
             </div>
         </section>
     );
