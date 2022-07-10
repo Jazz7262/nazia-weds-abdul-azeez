@@ -10,7 +10,7 @@ function Timeline() {
                     <div className="col-lg-6 left" data-aos="fade-down">
                         <h1>Shukrana</h1>
                         <p>
-                            On Saturdayday, 13<sup>th</sup> July, 2022,
+                            On Wednesday, 13<sup>th</sup> July, 2022,
                             <br />
                             13<sup>th</sup> Zilhajjah, 1443 Hijri,
                             <br />
@@ -38,7 +38,7 @@ function Timeline() {
                     >
                         <h1>Nikaah</h1>
                         <p>
-                            On Sunday, 14<sup>th</sup> July, 2022,
+                            On Thursday, 14<sup>th</sup> July, 2022,
                             <br />
                             14<sup>th</sup> Zilhajjah, 1443 Hijri,
                             <br />
@@ -68,7 +68,7 @@ function Timeline() {
                     >
                         <h1>Valima</h1>
                         <p>
-                            On Tuesday, 15<sup>th</sup> July, 2022,
+                            On Friday, 15<sup>th</sup> July, 2022,
                             <br />
                             15<sup>th</sup> Zilhajjah, 1443 Hijri,
                             <br />
